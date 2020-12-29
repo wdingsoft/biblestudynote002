@@ -1,3 +1,1 @@
-var localStorage = {
-    
-}
+var localStorage = undefined
